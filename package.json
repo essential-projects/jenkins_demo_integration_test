@@ -26,8 +26,6 @@
   "scripts": {
     "lint": "gulp lint",
     "build": "gulp build",
-    "build-schemas": "gulp typescript-schema",
-    "build-doc": "gulp doc",
     "test": "gulp test"
   }
 }
